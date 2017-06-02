@@ -1,0 +1,15 @@
+2017-05-30 17:35:18.859807: Activating venv with executable at D:\home\site\wwwroot\env\Scripts\python.exe
+2017-05-30 17:35:18.891060: Getting handler django.core.wsgi.get_wsgi_application()
+2017-05-30 17:35:36.565668: Activating venv with executable at D:\home\site\wwwroot\env\Scripts\python.exe
+2017-05-30 17:35:36.581292: Getting handler django.core.wsgi.get_wsgi_application()
+2017-05-30 17:35:45.981832: Got handler: <django.core.handlers.wsgi.WSGIHandler object at 0x0241DA90>
+2017-05-30 17:35:45.981832: wfastcgi.py will restart when files in D:\home\site\wwwroot\ are changed: .*((\.py)|(\.config))$
+2017-05-30 17:35:45.997465: wfastcgi.py 2.1.1 initialized
+2017-05-30 17:35:46.175336: Got handler: <django.core.handlers.wsgi.WSGIHandler object at 0x01C69F70>
+2017-05-30 17:35:46.190967: wfastcgi.py will restart when files in D:\home\site\wwwroot\ are changed: .*((\.py)|(\.config))$
+2017-05-30 17:35:46.206586: wfastcgi.py 2.1.1 initialized
+2017-05-30 17:37:58.428696: Activating venv with executable at D:\home\site\wwwroot\env\Scripts\python.exe
+2017-05-30 17:37:58.475536: Getting handler django.core.wsgi.get_wsgi_application()
+2017-05-30 17:38:00.960387: Got handler: <django.core.handlers.wsgi.WSGIHandler object at 0x02615DD0>
+2017-05-30 17:38:00.975553: wfastcgi.py will restart when files in D:\home\site\wwwroot\ are changed: .*((\.py)|(\.config))$
+2017-05-30 17:38:00.975553: wfastcgi.py 2.1.1 initialized
